@@ -62,7 +62,7 @@ html {
 /*= State ==================*/
 
 .a11y-link:active,
-.ally-link:focus {
+.a11y-link:focus {
 	top: 1em;
 }
 
