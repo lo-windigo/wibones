@@ -55,6 +55,23 @@ html {
 .content-title {
 }
 
+/* Inspired by fukol grid: https://github.com/Heydon/fukol-grids */
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	margin: -.5em;
+}
+
+.grid > * {
+	background: #555;
+	/* Means:
+		1 - items can grow in size
+		0 - items cannot shrink beyond the initial
+		5em - initial size of items */
+	flex: 1 0 5em;
+	margin: .5em;
+}
+
 .site-title {
 }
 
