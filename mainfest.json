@@ -1,0 +1,14 @@
+{
+	"name": "Windigo's Barebone Framework",
+	"snort_name": "Wibones",
+	"description": "Reusable styles, common files and tags, and anything else I find that I end up duplicating from a site-to-site basis.",
+	"background_color": "#fefefe",
+	"dir": "ltr",
+	"icons": [{
+		"src": "file.gif",
+		"sizes": "48x48",
+		"type": "img/gif"
+	}],
+	"lang": "en-US",
+	"start_url": "/"
+}
